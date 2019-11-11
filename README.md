@@ -11,10 +11,5 @@ Pages;
 Resources:
   - Sketch
 
-Description: SPD 1.2 Digital Mockup Assignment
-
-Assignment: Build a high res digital mockup using one of the following tools, Adobe XD (Free), Figma.com (Free), Sketch ($50 with educational discount).
-
-Requirements: Must include at least three screens.
-
-Evaluation: Your project will be evaluated on its completeness, creativity, and attractiveness.
+Description: SPD 1.2 Digital Wireframe Assignment
+![Image of Home Page](home.png)
