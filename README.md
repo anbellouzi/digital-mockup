@@ -1,6 +1,6 @@
 ## Autor: Anas Bellouzi
 
-# Project: Digital Clone: Olive Oil
+# Project: Olive Oil Digital Wireframe
 
 ### Wireframe Pages:
   1. Home page
