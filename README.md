@@ -1,5 +1,4 @@
 ## Autor: Anas Bellouzi
-Date: 11/06/2019
 
 # Project: Digital Clone: Olive Oil
 
@@ -17,8 +16,8 @@ Date: 11/06/2019
 
 **2. Feature Page**
 
-![Image of Home Page](home.png)
+![Image of Home Page](feature.png)
 
 **3. About Page**
 
-![Image of Home Page](home.png)
+![Image of Home Page](about.png)
