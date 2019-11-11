@@ -1,15 +1,24 @@
-Autor: Anas Bellouzi
+## Autor: Anas Bellouzi
 Date: 11/06/2019
 
-Project: Digital Clone: Olive Oil
+# Project: Digital Clone: Olive Oil
 
-Pages;
-  1. home page
-  2. feature page
+### Wireframe Pages:
+  1. Home page
+  2. Feature page
   3. About page
 
-Resources:
+### Resources:
   - Sketch
 
-Description: SPD 1.2 Digital Wireframe Assignment
+ **1. Home Page**
+
+![Image of Home Page](home.png)
+
+**2. Feature Page**
+
+![Image of Home Page](home.png)
+
+**3. About Page**
+
 ![Image of Home Page](home.png)
